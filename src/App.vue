@@ -8,6 +8,7 @@
 import TriviaGame from "./components/TriviaGame.vue";
 
 export default {
+  name: "App",
   components: { TriviaGame },
 };
 </script>
